@@ -1,0 +1,18 @@
+[
+  {
+    "msgtype": "text",
+    "body": {
+      "content": "hello!",
+      "atAll": true
+    }
+  },
+  {
+    "msgtype": "link",
+    "body": {
+      "title": "hello!",
+      "text": "jkjkjkj",
+      "messageurl": "k",
+      "picurl": "q"
+    }
+  }
+]
